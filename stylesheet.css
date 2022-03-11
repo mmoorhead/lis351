@@ -1,0 +1,61 @@
+/* You should edit the content below to fit your website */
+
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color:#545E75;
+	text-align: center;}
+
+h1 {
+	color:#304D6D;}
+
+h4 {
+	color:#82A0BC;}
+
+body {
+	width: 960px;
+	margin: 0 auto;} 
+
+nav {
+	background-color:#efefef;
+	padding:10px;
+	margin:10px;}
+
+li {
+	display: inline;
+	padding: 5px;}
+
+section {
+	overflow:  auto;
+	height: 100%;}
+
+main {
+	background-color: #efefef;
+	pading: 10px;
+	margin: 10px;}
+
+article {
+	background-color: #efefef;
+	pading: 10px;
+	margin: 10px;
+	width: 280px;
+	float: left;}
+
+footer {
+	background-color: #efefef;
+	pading: 10px;
+	margin: 10px;}
+
+.musings {
+	background-color: #efefef;
+	pading: 10px;
+	margin: 10px;
+	width: 960px;
+	float: center;
+	justify-content: center;}
+
+.aboutme {
+	background-color: #efefef;
+	pading: 10px;
+	margin: 10px;
+	width: 800px;
+	float: left;}
